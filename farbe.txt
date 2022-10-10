@@ -2,6 +2,7 @@ Farbpalette
 Rot
 Hell Grun
 Dunkel Grun
+Grun
 Blau
 Gelb
 Sind alles tolle Farben.
